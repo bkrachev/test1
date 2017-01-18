@@ -3,3 +3,5 @@
 3. Conflict tortoise
 4. Commit again
 5. For commit
+6. Bash update
+7. Tortoise update now
